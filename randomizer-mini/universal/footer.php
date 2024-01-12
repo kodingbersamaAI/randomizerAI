@@ -1,0 +1,1 @@
+<footer><hr><small>Randomizer.AI from <a href="https://koding-bersama-ai.great-site.net" target="_blank"><strong>KodingAI</strong></a></small></footer>
